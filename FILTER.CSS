@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+.topSection {
+    
+    
+    text-align:top;
+}
+
+  .logo{
+    display: inline-block;
+    width: 52px;
+    height: 52px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    font-size: 33px;
+    color: #eb2929 ;
+    margin-left: 1%;
+    text-align: center;
+}
+  
+  .Ellipse {
+    width: 52px;
+    height: 52px;
+    padding: 1px 10px 4px;
+    background-color: #fff;
+  }
+  .Rectangle {
+   
+    height: 80px;
+    margin:auto;
+    
+    background-color: #ce0505;
+  }
+  .Breakfast-Places-in-Mumbai {
+    width: 512px;
+    height: 51px;
+    margin: auto;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
